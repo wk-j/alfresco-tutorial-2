@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+target/
+/alf_data_dev/
+/.idea/
+share.log*
+alfresco.log*
+solr.log*

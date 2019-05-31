@@ -6,3 +6,8 @@ target/
 share.log*
 alfresco.log*
 solr.log*
+
+**/.classpath
+**/.project
+**/.settings
+**/.factorypath

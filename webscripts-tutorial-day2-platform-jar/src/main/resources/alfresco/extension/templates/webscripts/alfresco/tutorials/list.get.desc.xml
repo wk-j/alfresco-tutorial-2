@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>List folder contents</shortname>
+    <description>Lists entries in a folder</description>
+    <url>/sample/folder/list?path={folderPath}</url>
+    <authentication>user</authentication>
+    <format default="json"></format>
+    <family>Training</family>
+</webscript>

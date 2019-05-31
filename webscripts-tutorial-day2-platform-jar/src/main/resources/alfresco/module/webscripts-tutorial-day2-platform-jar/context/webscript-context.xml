@@ -23,4 +23,10 @@
 		  class="com.tutorial.platformsample.HelloWorldWebScript"
 		  parent="webscript">
 	</bean>
+
+	<bean id="webscript.alfresco.tutorials.list.get"
+		class="com.tutorial.platformsample.FolderListWebscript"
+		parent="webscript">
+		<property name="serviceRegistry" ref="ServiceRegistry" />
+	</bean>
 </beans>
